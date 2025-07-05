@@ -14,18 +14,9 @@ This survey aims to comprehensively review and analyze the methodologies propose
 
 | File/Folder               | Description                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|
-| `methodology_summary.md` | A concise summary of the methods and workflows used in the surveyed papers.|
-| `overview_figure.png`    | A visual overview figure representing the methodology or workflow.         |
+| `Review article LLM-LP.docx.pdf` | A concise summary of the methods and workflows and visual overview figures used in the surveyed papers.|
 
 > 📌 You can open the summary file to get a quick understanding of the main approaches discussed in the survey.
-
----
-
-## 🖼️ Method Overview Figure
-
-<p align="center">
-  <img src="overview_figure.png" alt="Method Overview" width="600"/>
-</p>
 
 ---
 
@@ -41,10 +32,3 @@ If you find this repository or the paper helpful in your research, please consid
   year      = {2025},
   doi       = {DOI or arXiv ID}
 }
-
-
-## 🤝 Contributions
-This repository is maintained by [Your Name]. Feel free to open issues or submit pull requests if you have suggestions or corrections related to the content.
-
-📬 Contact
-For questions, please contact: [your.email@example.com]
